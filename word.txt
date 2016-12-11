@@ -1,0 +1,20 @@
+Iteration
+Execute the same line of code several times using a loop. 
+Selection
+code will be run if a condition is met in the form of IF statements
+Sequence
+Code will run in order, one line at a time
+HUB
+Device that channels a number of input signals into one output line.
+ASCII 
+American Standard Code for Information Interchange. A commonly used data format for exchanging information between computers or programs
+Bit
+the smallest piece of information used by the computer
+Compression
+A technique that reduces the size of a saved file by elimination or encoding redundancies
+Data Protection Act 
+The UK law that tells organisations how they must protect the personal data of real people
+Computer Misuse Act 
+The UK law that makes it illegal to hack into a person’s computer and to disrupt deliberately someone else’s computer
+Storage device
+A device that stores data in a binary form for use later
